@@ -1,0 +1,14 @@
+D:\code\test-choose\obj\Debug\net8.0\test-choose.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\test-choose\obj\Debug\net8.0\test-choose.AssemblyInfoInputs.cache
+D:\code\test-choose\obj\Debug\net8.0\test-choose.AssemblyInfo.cs
+D:\code\test-choose\obj\Debug\net8.0\test-choose.csproj.CoreCompileInputs.cache
+D:\code\test-choose\bin\Debug\net8.0\test-choose.exe
+D:\code\test-choose\bin\Debug\net8.0\test-choose.deps.json
+D:\code\test-choose\bin\Debug\net8.0\test-choose.runtimeconfig.json
+D:\code\test-choose\bin\Debug\net8.0\test-choose.dll
+D:\code\test-choose\bin\Debug\net8.0\test-choose.pdb
+D:\code\test-choose\obj\Debug\net8.0\test-choose.dll
+D:\code\test-choose\obj\Debug\net8.0\refint\test-choose.dll
+D:\code\test-choose\obj\Debug\net8.0\test-choose.pdb
+D:\code\test-choose\obj\Debug\net8.0\test-choose.genruntimeconfig.cache
+D:\code\test-choose\obj\Debug\net8.0\ref\test-choose.dll
